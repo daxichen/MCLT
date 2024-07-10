@@ -23,3 +23,7 @@ Please cite us if our project is helpful to you!
   keywords={Transformers;Object detection;Hyperspectral imaging;Feature extraction;Self-supervised learning;Training;Unsupervised learning;Hyperspectral imagery (HSI);momentum contrastive learning;target detection;transformer;unsupervised learning},
   doi={10.1109/JSTARS.2024.3387985}}
 
+# Usage:
+```
+Run main_mclt.py for model training
+Run detection.py for target detection
