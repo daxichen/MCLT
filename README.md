@@ -27,3 +27,4 @@ Please cite us if our project is helpful to you!
 ```
 Run main_mclt.py for model training
 Run detection.py for target detection
+```
