@@ -24,6 +24,12 @@ Please cite us if our project is helpful to you!
   doi={10.1109/JSTARS.2024.3387985}}
 ```
 
+# Requirements：
+```
+1. torch==1.11.0+cu113
+2. python==3.8.3
+```
+
 # Usage:
 ```
 Run main_mclt.py for model training
