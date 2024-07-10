@@ -11,7 +11,7 @@ Hyperspectral target detection plays a pivotal role in various civil and militar
 # Citation：
 Please cite us if our project is helpful to you!
 
-'''
+```
 @ARTICLE{10497838,
   author={Wang, Yulei and Chen, Xi and Zhao, Enyu and Zhao, Chunhui and Song, Meiping and Yu, Chunyan},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
@@ -22,4 +22,4 @@ Please cite us if our project is helpful to you!
   pages={9053-9068},
   keywords={Transformers;Object detection;Hyperspectral imaging;Feature extraction;Self-supervised learning;Training;Unsupervised learning;Hyperspectral imagery (HSI);momentum contrastive learning;target detection;transformer;unsupervised learning},
   doi={10.1109/JSTARS.2024.3387985}}
-'''
+
